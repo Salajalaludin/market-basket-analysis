@@ -1,0 +1,4 @@
+"lhs","rhs","support","confidence","coverage","lift","count"
+"{Lauk bumbu masak}","{Minuman air putih}",0.0859,0.6471,0.1328,1.1832,11
+"{Lauk berkuah}","{Minuman air putih}",0.1406,0.6429,0.2187,1.1755,18
+"{Lauk bakar}","{Minuman air putih}",0.0938,0.6316,0.1484,1.1549,12

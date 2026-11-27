@@ -1,0 +1,4 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen","p_holm","signifikan_holm"
+"{Lauk bumbu masak}","{Minuman air putih}",0.0859,0.6471,0.1328,1.1832,11,0.2663,"Tidak",0.5326,"Tidak"
+"{Lauk berkuah}","{Minuman air putih}",0.1406,0.6429,0.2187,1.1755,18,0.1739,"Tidak",0.5217,"Tidak"
+"{Lauk bakar}","{Minuman air putih}",0.0938,0.6316,0.1484,1.1549,12,0.2916,"Tidak",0.5326,"Tidak"

@@ -1,0 +1,3 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen"
+"{Paket ayam rica rica}","{Es air putih}",0.0465,0.6667,0.0698,1.4333,6,0.1816,"Tidak"
+"{Paket ayam bumbu hitam}","{Es air putih}",0.0388,0.625,0.062,1.3438,5,0.284,"Tidak"

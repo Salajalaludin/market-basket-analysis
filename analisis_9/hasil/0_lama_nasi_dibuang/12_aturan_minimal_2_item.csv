@@ -1,0 +1,4 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","p_holm"
+"{air putih}","{tongseng ayam}",0.0512,0.6471,0.0791,4.7972,11,2.93e-07,8.79e-07
+"{ayam bakar}","{es air putih}",0.0977,0.6364,0.1535,1.9545,21,6.682e-05,6.682e-05
+"{tea jus gula batu}","{ayam penyet cabe ijo}",0.1302,0.6364,0.2047,1.7769,28,2.369e-05,4.738e-05

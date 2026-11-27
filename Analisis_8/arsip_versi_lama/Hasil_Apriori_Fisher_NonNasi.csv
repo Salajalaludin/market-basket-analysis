@@ -1,0 +1,6 @@
+"LHS","RHS","Count","Support","Confidence","Lift","Odds_Ratio","Fisher_p_arules_1sided","Fisher_p_2sided","Signif_0.05"
+"pecel ayam","kulit ayam",10,0.0446,0.5882,7.7509,38.74,4.272e-09,4.272e-09,"Signifikan"
+"kulit ayam","pecel ayam",10,0.0446,0.5882,7.7509,38.74,4.272e-09,4.272e-09,"Signifikan"
+"air putih","tongseng ayam",11,0.0491,0.6471,4.998,18.726,1.889e-07,1.889e-07,"Signifikan"
+"ayam bakar","es air putih",21,0.0938,0.6364,2.0077,4.894,4.256e-05,6.273e-05,"Signifikan"
+"tea jus gula batu","ayam penyet cabe ijo",28,0.125,0.6087,1.7708,4.066,3.365e-05,4.445e-05,"Signifikan"

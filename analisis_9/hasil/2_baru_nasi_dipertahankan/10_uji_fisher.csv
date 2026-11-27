@@ -1,0 +1,24 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen","p_holm","signifikan_holm","a","b","c","d","odds_ratio"
+"{air putih}","{tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11,2.079e-07,"Ya",4.782e-06,"Ya",11,6,18,187,18.528
+"{nasi putih,air putih}","{tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11,2.079e-07,"Ya",4.782e-06,"Ya",11,6,18,187,18.528
+"{ayam bakar}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20,4.628e-05,"Ya",0.0008793,"Ya",20,11,50,141,5.083
+"{ayam bakar,nasi putih}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20,4.628e-05,"Ya",0.0008793,"Ya",20,11,50,141,5.083
+"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",0.1261,0.6829,0.1847,1.969,28,1.171e-06,"Ya",2.459e-05,"Ya",28,13,49,132,5.749
+"{tea jus gula batu}","{ayam penyet cabe ijo}",0.1261,0.6222,0.2027,1.7939,28,2.191e-05,"Ya",0.0004382,"Ya",28,17,49,128,4.27
+"{soto ayam}","{nasi putih}",0.0586,1,0.0586,1.0829,13,0.3444,"Tidak",1,"Tidak",13,0,192,17,Inf
+"{ayam bumbu hitam}","{nasi putih}",0.0631,1,0.0631,1.0829,14,0.3164,"Tidak",1,"Tidak",14,0,191,17,Inf
+"{ayam rica rica}","{nasi putih}",0.0676,1,0.0676,1.0829,15,0.2905,"Tidak",1,"Tidak",15,0,190,17,Inf
+"{air putih}","{nasi putih}",0.0766,1,0.0766,1.0829,17,0.2446,"Tidak",1,"Tidak",17,0,188,17,Inf
+"{pecel ayam}","{nasi putih}",0.0766,1,0.0766,1.0829,17,0.2446,"Tidak",1,"Tidak",17,0,188,17,Inf
+"{kulit ayam}","{nasi putih}",0.0766,1,0.0766,1.0829,17,0.2446,"Tidak",1,"Tidak",17,0,188,17,Inf
+"{tongseng ayam}","{nasi putih}",0.1306,1,0.1306,1.0829,29,0.08399,"Tidak",1,"Tidak",29,0,176,17,Inf
+"{ayam bakar}","{nasi putih}",0.1396,1,0.1396,1.0829,31,0.06981,"Tidak",1,"Tidak",31,0,174,17,Inf
+"{ayam penyet cabe ijo}","{nasi putih}",0.3468,1,0.3468,1.0829,77,0.0005063,"Ya",0.008607,"Ya",77,0,128,17,Inf
+"{tongseng ayam,air putih}","{nasi putih}",0.0495,1,0.0495,1.0829,11,0.4076,"Tidak",1,"Tidak",11,0,194,17,Inf
+"{kulit ayam,pecel ayam}","{nasi putih}",0.045,1,0.045,1.0829,10,0.4431,"Tidak",1,"Tidak",10,0,195,17,Inf
+"{tongseng ayam,es air putih}","{nasi putih}",0.045,1,0.045,1.0829,10,0.4431,"Tidak",1,"Tidak",10,0,195,17,Inf
+"{ayam bakar,es air putih}","{nasi putih}",0.0901,1,0.0901,1.0829,20,0.1884,"Tidak",1,"Tidak",20,0,185,17,Inf
+"{ayam penyet cabe ijo,tea jus gula batu}","{nasi putih}",0.1261,1,0.1261,1.0829,28,0.09206,"Tidak",1,"Tidak",28,0,177,17,Inf
+"{ayam penyet cabe ijo,es air putih}","{nasi putih}",0.0721,1,0.0721,1.0829,16,0.2667,"Tidak",1,"Tidak",16,0,189,17,Inf
+"{es air putih}","{nasi putih}",0.2928,0.9286,0.3153,1.0056,65,0.5416,"Tidak",1,"Tidak",65,5,140,12,1.114
+"{tea jus gula batu}","{nasi putih}",0.1847,0.9111,0.2027,0.9867,41,0.7552,"Tidak",1,"Tidak",41,4,164,13,0.813

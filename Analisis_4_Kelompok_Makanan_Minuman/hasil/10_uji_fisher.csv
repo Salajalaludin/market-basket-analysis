@@ -1,0 +1,5 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen"
+"{Minuman jasjus}","{Lauk goreng sambal}",0.0781,0.6667,0.1172,1.4463,10,0.07696,"Tidak"
+"{Lauk bumbu masak}","{Minuman air putih}",0.0859,0.6471,0.1328,1.1832,11,0.2663,"Tidak"
+"{Lauk berkuah}","{Minuman air putih}",0.1406,0.6429,0.2187,1.1755,18,0.1739,"Tidak"
+"{Lauk bakar}","{Minuman air putih}",0.0938,0.6316,0.1484,1.1549,12,0.2916,"Tidak"

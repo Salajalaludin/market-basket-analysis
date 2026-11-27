@@ -1,0 +1,13 @@
+"kelompok_data","jumlah_transaksi","jumlah_aturan_kelompok","lhs","rhs","count_lhs","count","confidence","lift","p_value_fisher"
+"Pencatatan awal (TRX-001 s.d. 184)",182,0,"{air putih}","{tongseng ayam}",10,4,0.4,3.3091,0.02092
+"Pencatatan awal (TRX-001 s.d. 184)",182,0,"{ayam bakar}","{es air putih}",21,10,0.4762,1.4444,0.1034
+"Pencatatan awal (TRX-001 s.d. 184)",182,0,"{tea jus gula batu}","{ayam penyet cabe ijo}",31,14,0.4516,1.3047,0.1262
+"Pencatatan awal (TRX-001 s.d. 184)",182,0,"{pecel ayam}","{kulit ayam}",9,2,0.2222,4.4938,0.06544
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,16,"{air putih}","{tongseng ayam}",7,7,1,5.7143,5.364e-08
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,16,"{ayam bakar}","{es air putih}",10,10,1,4,1.18e-09
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,16,"{tea jus gula batu}","{ayam penyet cabe ijo}",14,14,1,2.8571,4.309e-11
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,16,"{pecel ayam}","{kulit ayam}",8,8,1,5,1.3e-08
+"Seluruh data",222,3,"{air putih}","{tongseng ayam}",17,11,0.6471,4.9533,2.079e-07
+"Seluruh data",222,3,"{ayam bakar}","{es air putih}",31,20,0.6452,2.0461,4.628e-05
+"Seluruh data",222,3,"{tea jus gula batu}","{ayam penyet cabe ijo}",45,28,0.6222,1.7939,2.191e-05
+"Seluruh data",222,3,"{pecel ayam}","{kulit ayam}",17,10,0.5882,7.6817,4.672e-09

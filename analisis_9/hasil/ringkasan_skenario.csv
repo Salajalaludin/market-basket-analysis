@@ -1,0 +1,7 @@
+"skenario","data","nasi","transaksi_dianalisis","jumlah_item","item_teratas","frekuensi_item_teratas","jumlah_item_wajib","aturan_terbentuk","aturan_final","aturan_final_memuat_nasi","aturan_kuat","signifikan_fisher_5persen","signifikan_holm","pasangan_item_diuji","pasangan_signifikan_holm","aturan_min2_item"
+"0_lama_nasi_dibuang","MBA_Riset_Pemasaran_lama_224.xlsx","dibuang",224,32,"nasi putih",0.924,1,23,3,0,3,3,3,6,4,3
+"1_lama_nasi_dipertahankan","MBA_Riset_Pemasaran_lama_224.xlsx","dipertahankan",224,32,"nasi putih",0.924,1,23,23,20,6,7,7,17,5,23
+"2_baru_nasi_dipertahankan","MBA_Riset_Pemasaran_baru_222.xlsx","dipertahankan",222,32,"nasi putih",0.923,1,23,23,20,6,7,7,17,5,23
+"3_baru_nasi_dibuang","MBA_Riset_Pemasaran_baru_222.xlsx","dibuang",222,32,"nasi putih",0.923,1,23,3,0,3,3,3,6,4,3
+"4_lama_nasi_paket","MBA_Riset_Pemasaran_lama_224.xlsx","paket",224,31,"paket ayam penyet cabe ijo",0.344,0,3,3,0,3,3,3,6,4,6
+"5_baru_nasi_paket","MBA_Riset_Pemasaran_baru_222.xlsx","paket",222,31,"paket ayam penyet cabe ijo",0.347,0,3,3,0,3,3,3,6,4,6

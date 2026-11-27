@@ -1,0 +1,13 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","p_holm","jumlah_pasangan_diuji"
+"{paket pecel ayam}","{paket kulit ayam}",0.045,0.5882,0.0766,7.6817,10,4.672e-09,2.803e-08,6
+"{paket kulit ayam}","{paket pecel ayam}",0.045,0.5882,0.0766,7.6817,10,4.672e-09,2.803e-08,6
+"{air putih}","{paket tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11,2.079e-07,1.04e-06,6
+"{paket tongseng ayam}","{air putih}",0.0495,0.3793,0.1306,4.9533,11,2.079e-07,1.04e-06,6
+"{tea jus gula batu}","{paket ayam penyet cabe ijo}",0.1261,0.6222,0.2027,1.7939,28,2.191e-05,8.763e-05,6
+"{paket ayam penyet cabe ijo}","{tea jus gula batu}",0.1261,0.3636,0.3468,1.7939,28,2.191e-05,8.763e-05,6
+"{paket ayam bakar}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20,4.628e-05,0.0001388,6
+"{es air putih}","{paket ayam bakar}",0.0901,0.2857,0.3153,2.0461,20,4.628e-05,0.0001388,6
+"{paket tongseng ayam}","{es air putih}",0.045,0.3448,0.1306,1.0936,10,0.4319,0.8638,6
+"{es air putih}","{paket tongseng ayam}",0.045,0.1429,0.3153,1.0936,10,0.4319,0.8638,6
+"{es air putih}","{paket ayam penyet cabe ijo}",0.0721,0.2286,0.3153,0.659,16,0.9967,0.9967,6
+"{paket ayam penyet cabe ijo}","{es air putih}",0.0721,0.2078,0.3468,0.659,16,0.9967,0.9967,6

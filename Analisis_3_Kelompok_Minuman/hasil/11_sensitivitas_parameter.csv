@@ -1,0 +1,25 @@
+"support","confidence","data","jumlah_aturan","aturan_lift_di_atas_1","aturan_kuat"
+0.02,0.4,"Minimal 2 item",11,8,1
+0.03,0.4,"Minimal 2 item",8,6,1
+0.05,0.4,"Minimal 2 item",4,3,0
+0.02,0.5,"Minimal 2 item",7,6,1
+0.03,0.5,"Minimal 2 item",6,5,1
+0.05,0.5,"Minimal 2 item",2,2,0
+0.02,0.6,"Minimal 2 item",4,4,0
+0.03,0.6,"Minimal 2 item",4,4,0
+0.05,0.6,"Minimal 2 item",2,2,0
+0.02,0.7,"Minimal 2 item",1,1,0
+0.03,0.7,"Minimal 2 item",1,1,0
+0.05,0.7,"Minimal 2 item",1,1,0
+0.02,0.4,"Semua transaksi",5,5,1
+0.03,0.4,"Semua transaksi",4,4,1
+0.05,0.4,"Semua transaksi",3,3,1
+0.02,0.5,"Semua transaksi",2,2,1
+0.03,0.5,"Semua transaksi",2,2,1
+0.05,0.5,"Semua transaksi",2,2,1
+0.02,0.6,"Semua transaksi",1,1,1
+0.03,0.6,"Semua transaksi",1,1,1
+0.05,0.6,"Semua transaksi",1,1,1
+0.02,0.7,"Semua transaksi",0,0,0
+0.03,0.7,"Semua transaksi",0,0,0
+0.05,0.7,"Semua transaksi",0,0,0

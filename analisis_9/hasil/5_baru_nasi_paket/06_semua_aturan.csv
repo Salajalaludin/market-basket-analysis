@@ -1,0 +1,4 @@
+"lhs","rhs","support","confidence","coverage","lift","count","memuat_item_wajib"
+"{air putih}","{paket tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11,"Tidak"
+"{paket ayam bakar}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20,"Tidak"
+"{tea jus gula batu}","{paket ayam penyet cabe ijo}",0.1261,0.6222,0.2027,1.7939,28,"Tidak"

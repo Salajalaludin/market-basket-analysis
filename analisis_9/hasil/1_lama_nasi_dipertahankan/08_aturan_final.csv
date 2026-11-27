@@ -1,0 +1,24 @@
+"lhs","rhs","support","confidence","coverage","lift","count"
+"{air putih}","{tongseng ayam}",0.0491,0.6471,0.0759,4.998,11
+"{nasi putih,air putih}","{tongseng ayam}",0.0491,0.6471,0.0759,4.998,11
+"{ayam bakar}","{es air putih}",0.0938,0.6364,0.1473,2.0077,21
+"{ayam bakar,nasi putih}","{es air putih}",0.0938,0.6364,0.1473,2.0077,21
+"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",0.125,0.6667,0.1875,1.9394,28
+"{tea jus gula batu}","{ayam penyet cabe ijo}",0.125,0.6087,0.2054,1.7708,28
+"{soto ayam}","{nasi putih}",0.058,1,0.058,1.0821,13
+"{ayam bumbu hitam}","{nasi putih}",0.0625,1,0.0625,1.0821,14
+"{ayam rica rica}","{nasi putih}",0.067,1,0.067,1.0821,15
+"{air putih}","{nasi putih}",0.0759,1,0.0759,1.0821,17
+"{pecel ayam}","{nasi putih}",0.0759,1,0.0759,1.0821,17
+"{kulit ayam}","{nasi putih}",0.0759,1,0.0759,1.0821,17
+"{tongseng ayam}","{nasi putih}",0.1295,1,0.1295,1.0821,29
+"{ayam bakar}","{nasi putih}",0.1473,1,0.1473,1.0821,33
+"{ayam penyet cabe ijo}","{nasi putih}",0.3438,1,0.3438,1.0821,77
+"{tongseng ayam,air putih}","{nasi putih}",0.0491,1,0.0491,1.0821,11
+"{kulit ayam,pecel ayam}","{nasi putih}",0.0446,1,0.0446,1.0821,10
+"{tongseng ayam,es air putih}","{nasi putih}",0.0446,1,0.0446,1.0821,10
+"{ayam bakar,es air putih}","{nasi putih}",0.0938,1,0.0938,1.0821,21
+"{ayam penyet cabe ijo,tea jus gula batu}","{nasi putih}",0.125,1,0.125,1.0821,28
+"{ayam penyet cabe ijo,es air putih}","{nasi putih}",0.0714,1,0.0714,1.0821,16
+"{es air putih}","{nasi putih}",0.2946,0.9296,0.317,1.0059,66
+"{tea jus gula batu}","{nasi putih}",0.1875,0.913,0.2054,0.988,42

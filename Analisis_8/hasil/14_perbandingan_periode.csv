@@ -1,0 +1,13 @@
+"periode","jumlah_transaksi","jumlah_aturan_periode","lhs","rhs","count_lhs","count","confidence","lift","p_value_fisher"
+"2-13 November",184,0,"{air putih}","{tongseng ayam}",10,4,0.4,3.3455,0.02013
+"2-13 November",184,0,"{ayam bakar}","{es air putih}",23,11,0.4783,1.4426,0.08867
+"2-13 November",184,0,"{tea jus gula batu}","{ayam penyet cabe ijo}",32,14,0.4375,1.2778,0.1487
+"2-13 November",184,0,"{pecel ayam}","{kulit ayam}",9,2,0.2222,4.5432,0.06415
+"16-18 November",40,16,"{air putih}","{tongseng ayam}",7,7,1,5.7143,5.364e-08
+"16-18 November",40,16,"{ayam bakar}","{es air putih}",10,10,1,4,1.18e-09
+"16-18 November",40,16,"{tea jus gula batu}","{ayam penyet cabe ijo}",14,14,1,2.8571,4.309e-11
+"16-18 November",40,16,"{pecel ayam}","{kulit ayam}",8,8,1,5,1.3e-08
+"Seluruh periode",224,3,"{air putih}","{tongseng ayam}",17,11,0.6471,4.998,1.889e-07
+"Seluruh periode",224,3,"{ayam bakar}","{es air putih}",33,21,0.6364,2.0077,4.256e-05
+"Seluruh periode",224,3,"{tea jus gula batu}","{ayam penyet cabe ijo}",46,28,0.6087,1.7708,3.365e-05
+"Seluruh periode",224,3,"{pecel ayam}","{kulit ayam}",17,10,0.5882,7.7509,4.272e-09

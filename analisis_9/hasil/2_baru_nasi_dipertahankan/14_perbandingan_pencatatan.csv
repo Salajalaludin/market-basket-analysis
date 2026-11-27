@@ -1,0 +1,73 @@
+"kelompok_data","jumlah_transaksi","jumlah_aturan_kelompok","lhs","rhs","count_lhs","count","confidence","lift","p_value_fisher"
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{air putih}","{tongseng ayam}",10,4,0.4,3.3091,0.02092
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{nasi putih,air putih}","{tongseng ayam}",10,4,0.4,3.3091,0.02092
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam bakar}","{es air putih}",21,10,0.4762,1.4444,0.1034
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam bakar,nasi putih}","{es air putih}",21,10,0.4762,1.4444,0.1034
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",27,14,0.5185,1.4979,0.03628
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{tea jus gula batu}","{ayam penyet cabe ijo}",31,14,0.4516,1.3047,0.1262
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{soto ayam}","{nasi putih}",13,13,1,1.0964,0.2895
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam bumbu hitam}","{nasi putih}",14,14,1,1.0964,0.2621
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam rica rica}","{nasi putih}",15,15,1,1.0964,0.2371
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{air putih}","{nasi putih}",10,10,1,1.0964,0.3887
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{pecel ayam}","{nasi putih}",9,9,1,1.0964,0.4283
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{kulit ayam}","{nasi putih}",9,9,1,1.0964,0.4283
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{tongseng ayam}","{nasi putih}",22,22,1,1.0964,0.1156
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam bakar}","{nasi putih}",21,21,1,1.0964,0.1283
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam penyet cabe ijo}","{nasi putih}",63,63,1,1.0964,0.0007659
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{tongseng ayam,air putih}","{nasi putih}",4,4,1,1.0964,0.6898
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{kulit ayam,pecel ayam}","{nasi putih}",2,2,1,1.0964,0.8315
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{tongseng ayam,es air putih}","{nasi putih}",10,10,1,1.0964,0.3887
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam bakar,es air putih}","{nasi putih}",10,10,1,1.0964,0.3887
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam penyet cabe ijo,tea jus gula batu}","{nasi putih}",14,14,1,1.0964,0.2621
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{ayam penyet cabe ijo,es air putih}","{nasi putih}",16,16,1,1.0964,0.2144
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{es air putih}","{nasi putih}",60,55,0.9167,1.005,0.5601
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{tea jus gula batu}","{nasi putih}",31,27,0.871,0.9549,0.8881
+"Pencatatan awal (TRX-001 s.d. 184)",182,16,"{pecel ayam}","{kulit ayam}",9,2,0.2222,4.4938,0.06544
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{air putih}","{tongseng ayam}",7,7,1,5.7143,5.364e-08
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{nasi putih,air putih}","{tongseng ayam}",7,7,1,5.7143,5.364e-08
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam bakar}","{es air putih}",10,10,1,4,1.18e-09
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam bakar,nasi putih}","{es air putih}",10,10,1,4,1.18e-09
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",14,14,1,2.8571,4.309e-11
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{tea jus gula batu}","{ayam penyet cabe ijo}",14,14,1,2.8571,4.309e-11
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{soto ayam}","{nasi putih}",0,0,0,0,1
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam bumbu hitam}","{nasi putih}",0,0,0,0,1
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam rica rica}","{nasi putih}",0,0,0,0,1
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{air putih}","{nasi putih}",7,7,1,1.0256,0.825
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{pecel ayam}","{nasi putih}",8,8,1,1.0256,0.8
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{kulit ayam}","{nasi putih}",8,8,1,1.0256,0.8
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{tongseng ayam}","{nasi putih}",7,7,1,1.0256,0.825
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam bakar}","{nasi putih}",10,10,1,1.0256,0.75
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam penyet cabe ijo}","{nasi putih}",14,14,1,1.0256,0.65
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{tongseng ayam,air putih}","{nasi putih}",7,7,1,1.0256,0.825
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{kulit ayam,pecel ayam}","{nasi putih}",8,8,1,1.0256,0.8
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{tongseng ayam,es air putih}","{nasi putih}",0,0,0,0,1
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam bakar,es air putih}","{nasi putih}",10,10,1,1.0256,0.75
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam penyet cabe ijo,tea jus gula batu}","{nasi putih}",14,14,1,1.0256,0.65
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{ayam penyet cabe ijo,es air putih}","{nasi putih}",0,0,0,0,1
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{es air putih}","{nasi putih}",10,10,1,1.0256,0.75
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{tea jus gula batu}","{nasi putih}",14,14,1,1.0256,0.65
+"Pencatatan tambahan (TRX-185 s.d. 224)",40,52,"{pecel ayam}","{kulit ayam}",8,8,1,5,1.3e-08
+"Seluruh data",222,23,"{air putih}","{tongseng ayam}",17,11,0.6471,4.9533,2.079e-07
+"Seluruh data",222,23,"{nasi putih,air putih}","{tongseng ayam}",17,11,0.6471,4.9533,2.079e-07
+"Seluruh data",222,23,"{ayam bakar}","{es air putih}",31,20,0.6452,2.0461,4.628e-05
+"Seluruh data",222,23,"{ayam bakar,nasi putih}","{es air putih}",31,20,0.6452,2.0461,4.628e-05
+"Seluruh data",222,23,"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",41,28,0.6829,1.969,1.171e-06
+"Seluruh data",222,23,"{tea jus gula batu}","{ayam penyet cabe ijo}",45,28,0.6222,1.7939,2.191e-05
+"Seluruh data",222,23,"{soto ayam}","{nasi putih}",13,13,1,1.0829,0.3444
+"Seluruh data",222,23,"{ayam bumbu hitam}","{nasi putih}",14,14,1,1.0829,0.3164
+"Seluruh data",222,23,"{ayam rica rica}","{nasi putih}",15,15,1,1.0829,0.2905
+"Seluruh data",222,23,"{air putih}","{nasi putih}",17,17,1,1.0829,0.2446
+"Seluruh data",222,23,"{pecel ayam}","{nasi putih}",17,17,1,1.0829,0.2446
+"Seluruh data",222,23,"{kulit ayam}","{nasi putih}",17,17,1,1.0829,0.2446
+"Seluruh data",222,23,"{tongseng ayam}","{nasi putih}",29,29,1,1.0829,0.08399
+"Seluruh data",222,23,"{ayam bakar}","{nasi putih}",31,31,1,1.0829,0.06981
+"Seluruh data",222,23,"{ayam penyet cabe ijo}","{nasi putih}",77,77,1,1.0829,0.0005063
+"Seluruh data",222,23,"{tongseng ayam,air putih}","{nasi putih}",11,11,1,1.0829,0.4076
+"Seluruh data",222,23,"{kulit ayam,pecel ayam}","{nasi putih}",10,10,1,1.0829,0.4431
+"Seluruh data",222,23,"{tongseng ayam,es air putih}","{nasi putih}",10,10,1,1.0829,0.4431
+"Seluruh data",222,23,"{ayam bakar,es air putih}","{nasi putih}",20,20,1,1.0829,0.1884
+"Seluruh data",222,23,"{ayam penyet cabe ijo,tea jus gula batu}","{nasi putih}",28,28,1,1.0829,0.09206
+"Seluruh data",222,23,"{ayam penyet cabe ijo,es air putih}","{nasi putih}",16,16,1,1.0829,0.2667
+"Seluruh data",222,23,"{es air putih}","{nasi putih}",70,65,0.9286,1.0056,0.5416
+"Seluruh data",222,23,"{tea jus gula batu}","{nasi putih}",45,41,0.9111,0.9867,0.7552
+"Seluruh data",222,23,"{pecel ayam}","{kulit ayam}",17,10,0.5882,7.6817,4.672e-09

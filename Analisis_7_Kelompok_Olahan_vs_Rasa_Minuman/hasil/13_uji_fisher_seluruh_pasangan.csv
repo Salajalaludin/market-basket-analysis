@@ -1,0 +1,19 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","p_holm","jumlah_pasangan_diuji"
+"{Minuman manis}","{Lauk goreng sambal}",0.2578,0.5893,0.4375,1.2785,33,0.008298,0.07468,9
+"{Lauk goreng sambal}","{Minuman manis}",0.2578,0.5593,0.4609,1.2785,33,0.008298,0.07468,9
+"{Lauk berkuah}","{Minuman air putih}",0.1406,0.6429,0.2187,1.1755,18,0.1739,1,9
+"{Minuman air putih}","{Lauk berkuah}",0.1406,0.2571,0.5469,1.1755,18,0.1739,1,9
+"{Lauk bumbu masak}","{Minuman air putih}",0.0859,0.6471,0.1328,1.1832,11,0.2663,1,9
+"{Minuman air putih}","{Lauk bumbu masak}",0.0859,0.1571,0.5469,1.1832,11,0.2663,1,9
+"{Lauk bakar}","{Minuman air putih}",0.0938,0.6316,0.1484,1.1549,12,0.2916,1,9
+"{Minuman air putih}","{Lauk bakar}",0.0938,0.1714,0.5469,1.1549,12,0.2916,1,9
+"{Nasi goreng}","{Minuman air putih}",0.0312,0.5,0.0625,0.9143,4,0.7401,1,9
+"{Minuman air putih}","{Nasi goreng}",0.0312,0.0571,0.5469,0.9143,4,0.7401,1,9
+"{Lauk bakar}","{Minuman manis}",0.0547,0.3684,0.1484,0.8421,7,0.8176,1,9
+"{Minuman manis}","{Lauk bakar}",0.0547,0.125,0.4375,0.8421,7,0.8176,1,9
+"{Lauk bumbu masak}","{Minuman manis}",0.0391,0.2941,0.1328,0.6723,5,0.9409,1,9
+"{Minuman manis}","{Lauk bumbu masak}",0.0391,0.0893,0.4375,0.6723,5,0.9409,1,9
+"{Lauk berkuah}","{Minuman manis}",0.0703,0.3214,0.2187,0.7347,9,0.9484,1,9
+"{Minuman manis}","{Lauk berkuah}",0.0703,0.1607,0.4375,0.7347,9,0.9484,1,9
+"{Lauk goreng sambal}","{Minuman air putih}",0.1953,0.4237,0.4609,0.7748,25,0.9972,1,9
+"{Minuman air putih}","{Lauk goreng sambal}",0.1953,0.3571,0.5469,0.7748,25,0.9972,1,9

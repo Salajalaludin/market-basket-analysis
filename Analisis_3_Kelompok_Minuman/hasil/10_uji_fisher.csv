@@ -1,0 +1,5 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen"
+"{Paket tongseng ayam}","{Minuman air putih}",0.1085,0.7,0.155,1.29,14,0.09708,"Tidak"
+"{Paket ayam rica rica}","{Minuman air putih}",0.0465,0.6667,0.0698,1.2286,6,0.3384,"Tidak"
+"{Paket ayam bakar}","{Minuman air putih}",0.093,0.6316,0.1473,1.1639,12,0.2781,"Tidak"
+"{Paket ayam bumbu hitam}","{Minuman air putih}",0.0388,0.625,0.062,1.1518,5,0.4579,"Tidak"

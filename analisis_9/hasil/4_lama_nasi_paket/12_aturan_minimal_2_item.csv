@@ -1,0 +1,7 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","p_holm"
+"{paket pecel ayam}","{paket kulit ayam}",0.0592,0.7143,0.0828,7.5446,10,1.744e-09,1.046e-08
+"{paket kulit ayam}","{paket pecel ayam}",0.0592,0.625,0.0947,7.5446,10,1.744e-09,1.046e-08
+"{air putih}","{paket tongseng ayam}",0.0651,0.6471,0.1006,4.0501,11,1.546e-06,6.184e-06
+"{tea jus gula batu}","{paket ayam penyet cabe ijo}",0.1657,0.6364,0.2604,1.7924,28,8.874e-06,2.662e-05
+"{paket ayam bakar}","{es air putih}",0.1243,0.7241,0.1716,1.7483,21,0.000226,0.000452
+"{paket ayam rica rica}","{es air putih}",0.0355,0.6667,0.0533,1.6095,6,0.1097,0.1097

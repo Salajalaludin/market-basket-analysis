@@ -1,0 +1,225 @@
+ID transaksi,Baris Excel,No asli,Tanggal,Makanan mentah,Minuman mentah,Catatan,Jumlah item,Item terpetakan,Pending,Ada nasi
+TRX-001,2,1,2026-11-02,ayam penyet cabe ijo,tea jus apel,,3,ayam penyet cabe ijo | tea jus apel | nasi,,ya
+TRX-002,3,2,2026-11-02,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-003,4,3,2026-11-02,soto ayam,tea jus gula batu,,3,soto ayam | tea jus gula batu | nasi,,ya
+TRX-004,5,4,2026-11-02,,tea jus apel,,1,tea jus apel,,tidak
+TRX-005,6,5,2026-11-02,,tea jus gula batu,,1,tea jus gula batu,,tidak
+TRX-006,7,6,2026-11-02,nasi goreng ayam,es air putih,,2,nasi goreng ayam | es air putih,,tidak
+TRX-007,8,7,2026-11-02,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-008,9,8,2026-11-02,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-009,10,9,2026-11-02,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-010,11,10,2026-11-02,ayam bakar,air putih es,,3,ayam bakar | es air putih | nasi,,ya
+TRX-011,12,11,2026-11-02,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-012,13,12,2026-11-02,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-013,14,13,2026-11-02,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-014,15,14,2026-11-02,ayam sambal seruit,es air putih,,3,ayam sambal seruit | es air putih | nasi,,ya
+TRX-015,16,15,2026-11-02,ayam bakar,,,2,ayam bakar | nasi,,ya
+TRX-016,17,16,2026-11-02,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-017,18,18,2026-11-02,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-018,19,19,2026-11-02,ayam rica rica dan tongseng ayam,,,3,ayam rica rica | tongseng ayam | nasi,,ya
+TRX-019,20,20,2026-11-02,omlet,,,2,omlet | nasi,,ya
+TRX-020,21,21,2026-11-02,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-021,22,22,2026-11-02,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-022,23,23,2026-11-02,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-023,24,24,2026-11-02,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-024,25,25,2026-11-02,nasi kulit ayam,jasjus anggur,,3,nasi | kulit ayam | jasjus anggur,,ya
+TRX-025,26,26,2026-11-02,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-026,27,27,2026-11-02,pecel ayam,,,2,pecel ayam | nasi,,ya
+TRX-027,28,28,2026-11-03,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-028,29,29,2026-11-03,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-029,30,30,2026-11-03,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-030,31,31,2026-11-03,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-031,32,32,2026-11-03,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-032,33,33,2026-11-03,ayam penyet cabe ijo,jasjus jeruk perak,,3,ayam penyet cabe ijo | jasjus jeruk peras | nasi,,ya
+TRX-033,34,34,2026-11-03,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-034,35,35,2026-11-03,ayam penyet cabe ijo,air putih,,3,ayam penyet cabe ijo | air putih | nasi,,ya
+TRX-035,36,36,2026-11-03,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-036,37,37,2026-11-04,ayam rica-rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-037,38,38,2026-11-04,ayam sambal seruit,es air putih,,3,ayam sambal seruit | es air putih | nasi,,ya
+TRX-038,39,39,2026-11-04,ayam penyet cabe ijo,air putih,,3,ayam penyet cabe ijo | air putih | nasi,,ya
+TRX-039,40,40,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-040,41,41,2026-11-04,soto ayam,es air putih,,3,soto ayam | es air putih | nasi,,ya
+TRX-041,42,42,2026-11-04,nasi goreng ayam,,,1,nasi goreng ayam,,tidak
+TRX-042,43,43,2026-11-04,ayam rica-rica,,,2,ayam rica rica | nasi,,ya
+TRX-043,44,44,2026-11-04,nasi goreng ayam,,,1,nasi goreng ayam,,tidak
+TRX-044,45,45,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-045,46,46,2026-11-04,ayam bakar,jasjus mangga,,3,ayam bakar | jasjus mangga | nasi,,ya
+TRX-046,47,47,2026-11-04,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-047,48,48,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-048,49,49,2026-11-04,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-049,50,50,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-050,51,51,2026-11-04,nasi goreng ayam dan ayam penyet cabe ijo,,bungkus,3,nasi goreng ayam | ayam penyet cabe ijo | nasi,,ya
+TRX-051,52,52,2026-11-04,soto ayam,,,2,soto ayam | nasi,,ya
+TRX-052,53,53,2026-11-04,,es good day freez,,1,good day freeze,,tidak
+TRX-053,54,54,2026-11-04,soto ayam,es air putih,,3,soto ayam | es air putih | nasi,,ya
+TRX-054,55,55,2026-11-04,soto ayam,es air putih,,3,soto ayam | es air putih | nasi,,ya
+TRX-055,56,56,2026-11-04,ayam bakar,teajus gula batu,,3,ayam bakar | tea jus gula batu | nasi,,ya
+TRX-056,57,57,2026-11-04,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-057,58,58,2026-11-04,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-058,59,59,2026-11-04,ayam bumbu hitam,es air putih,,3,ayam bumbu hitam | es air putih | nasi,,ya
+TRX-059,60,60,2026-11-04,ayam bumbu hitam,es air putih,,3,ayam bumbu hitam | es air putih | nasi,,ya
+TRX-060,61,61,2026-11-04,pecel ayam,,,2,pecel ayam | nasi,,ya
+TRX-061,62,62,2026-11-04,pecel ayam,,,2,pecel ayam | nasi,,ya
+TRX-062,63,63,2026-11-04,tongseng ayam,jasjus sirsak,,3,tongseng ayam | nasi | jasjus sirsak,,ya
+TRX-063,64,64,2026-11-04,tongseng ayam,jasjus jambu,,3,tongseng ayam | nasi | jasjus jambu,,ya
+TRX-064,65,65,2026-11-04,pecel ayam,jasjus melon,,3,pecel ayam | jasjus melon | nasi,,ya
+TRX-065,66,66,2026-11-04,nasi goreng ayam,teajus gula batu,,2,nasi goreng ayam | tea jus gula batu,,tidak
+TRX-066,67,67,2026-11-04,nasi kulit ayam,,bungkus,2,nasi | kulit ayam,,ya
+TRX-067,68,68,2026-11-04,ayam bakar,air putih es,,3,ayam bakar | es air putih | nasi,,ya
+TRX-068,69,69,2026-11-04,soto ayam,es tejus apel,,3,soto ayam | tea jus apel | nasi,,ya
+TRX-069,70,70,2026-11-04,soto ayam,,,2,soto ayam | nasi,,ya
+TRX-070,71,71,2026-11-04,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-071,72,72,2026-11-04,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-072,73,73,2026-11-04,ayam rica rica,teajus gula batu,,3,ayam rica rica | tea jus gula batu | nasi,,ya
+TRX-073,74,74,2026-11-04,soto ayam,,bungkus,2,soto ayam | nasi,,ya
+TRX-074,75,75,2026-11-04,ayam bakar,tea jus melati,,3,ayam bakar | tea jus melati | nasi,,ya
+TRX-075,76,76,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-076,77,77,2026-11-04,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-077,78,78,2026-11-04,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-078,79,79,2026-11-04,pecel lele,,bungkus,2,pecel lele | nasi,,ya
+TRX-079,80,80,2026-11-04,ayam rica rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-080,81,81,2026-11-04,ayam rica rica,teh biasa,,3,ayam rica rica | teh biasa | nasi,,ya
+TRX-081,82,82,2026-11-05,ayam bakar,,,2,ayam bakar | nasi,,ya
+TRX-082,83,83,2026-11-05,ayam bakar,,,2,ayam bakar | nasi,,ya
+TRX-083,84,84,2026-11-05,ayam rica-rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-084,85,85,2026-11-05,ayam penyet,es tejus gulbat,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-085,86,86,2026-11-05,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-086,87,87,2026-11-05,pecel ayam,teajus gula batu,,3,pecel ayam | tea jus gula batu | nasi,,ya
+TRX-087,88,88,2026-11-05,pecel ayam,es air putih,,3,pecel ayam | es air putih | nasi,,ya
+TRX-088,89,89,2026-11-05,soto ayam,susu kental (frisian flag),,3,soto ayam | susu kental frisian flag | nasi,,ya
+TRX-089,90,90,2026-11-05,ayam penyet cabe ijo,tea jus mangga,,3,ayam penyet cabe ijo | tea jus mangga | nasi,,ya
+TRX-090,91,91,2026-11-05,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-091,92,92,2026-11-05,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-092,93,93,2026-11-05,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-093,94,94,2026-11-05,ayam bakar,teajus gula batu,,3,ayam bakar | tea jus gula batu | nasi,,ya
+TRX-094,95,95,2026-11-05,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-095,96,96,2026-11-05,ayam bakar,,,2,ayam bakar | nasi,,ya
+TRX-096,97,97,2026-11-05,nasi goreng ayam,es air putih,,2,nasi goreng ayam | es air putih,,tidak
+TRX-097,98,98,2026-11-05,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-098,99,99,2026-11-05,nasi goreng cabe ijo,es air putih,,2,nasi goreng cabe ijo | es air putih,,tidak
+TRX-099,100,100,2026-11-05,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-100,101,101,2026-11-05,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-101,102,102,2026-11-05,ayam penyet cabe ijo dan ayam sambal seruit,,,3,ayam penyet cabe ijo | ayam sambal seruit | nasi,,ya
+TRX-102,103,103,2026-11-06,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-103,104,104,2026-11-06,ayam penyet cabe ijo,tea jus melati,,3,ayam penyet cabe ijo | tea jus melati | nasi,,ya
+TRX-104,105,105,2026-11-06,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-105,106,106,2026-11-06,ayam bumbu hitam,es air putih,,3,ayam bumbu hitam | es air putih | nasi,,ya
+TRX-106,107,107,2026-11-06,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-107,108,108,2026-11-06,ayam penyet cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-108,109,109,2026-11-06,ayam rica rica,,,2,ayam rica rica | nasi,,ya
+TRX-109,110,110,2026-11-06,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-110,111,111,2026-11-06,nasi goreng ayam,,,1,nasi goreng ayam,,tidak
+TRX-111,112,112,2026-11-06,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-112,113,113,2026-11-06,ayam penyet cabe ijo,es kopi good day,,3,ayam penyet cabe ijo | good day freeze | nasi,,ya
+TRX-113,114,114,2026-11-09,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-114,115,115,2026-11-09,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-115,116,,2026-11-09,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-116,117,,2026-11-09,ayam bumbu hitam,,,2,ayam bumbu hitam | nasi,,ya
+TRX-117,118,,2026-11-09,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-118,119,,2026-11-09,ayam bumbu hitam + kulit ayam + ayam cabe ijo,tea jus gula batu,,5,ayam bumbu hitam | kulit ayam | ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-119,120,,2026-11-09,ayam penyet cabe ijo 2 + kulit ayam,tea jus cincau,,4,ayam penyet cabe ijo | kulit ayam | tea jus cincau | nasi,,ya
+TRX-120,121,,2026-11-09,nasi kulit ayam,jasjus sirsak,,3,nasi | kulit ayam | jasjus sirsak,,ya
+TRX-121,122,,2026-11-09,pecel lele,jasjus sirsak,,3,pecel lele | jasjus sirsak | nasi,,ya
+TRX-122,123,,2026-11-09,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-123,124,,2026-11-09,tongseng ayam,teajus gula batu,,3,tongseng ayam | nasi | tea jus gula batu,,ya
+TRX-124,125,,2026-11-09,,es air putih,,1,es air putih,,tidak
+TRX-125,126,,2026-11-09,pecel ayam + kulit ayam,es teajus gula batu,,4,pecel ayam | kulit ayam | tea jus gula batu | nasi,,ya
+TRX-126,127,,2026-11-09,pecel ayam + kulit ayam,es teajus gulabatu,,4,pecel ayam | kulit ayam | tea jus gula batu | nasi,,ya
+TRX-127,128,,2026-11-09,ayam bumbu hitam nasi 1/2,es air putih,,3,ayam bumbu hitam | nasi | es air putih,,ya
+TRX-128,129,,2026-11-09,soto ayam,jasjus mangga,,3,soto ayam | jasjus mangga | nasi,,ya
+TRX-129,130,,2026-11-09,ayam penyet cabe ijo,jasjus jeruk peras,,3,ayam penyet cabe ijo | jasjus jeruk peras | nasi,,ya
+TRX-130,131,,2026-11-09,ayam penyet cabe ijo,jasjus mangga,,3,ayam penyet cabe ijo | jasjus mangga | nasi,,ya
+TRX-131,132,,2026-11-09,ayam penyet cabe ijo,jasjus mangga,,3,ayam penyet cabe ijo | jasjus mangga | nasi,,ya
+TRX-132,133,,2026-11-09,nasi kulit + pecel lele,es air putih,,4,nasi | kulit ayam | pecel lele | es air putih,,ya
+TRX-133,134,,2026-11-09,pecel ayam,air putih,,3,pecel ayam | air putih | nasi,,ya
+TRX-134,135,,2026-11-09,ayam cabe ijo,air putih,,3,ayam penyet cabe ijo | air putih | nasi,,ya
+TRX-135,136,,2026-11-09,ayam cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-136,137,,2026-11-09,soto ayam,,,2,soto ayam | nasi,,ya
+TRX-137,138,,2026-11-10,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-138,139,,2026-11-10,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-139,140,,2026-11-10,ayam bakar,air putih,,3,ayam bakar | air putih | nasi,,ya
+TRX-140,141,,2026-11-10,soto ayam,es air putih,,3,soto ayam | es air putih | nasi,,ya
+TRX-141,142,,2026-11-10,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-142,143,,2026-11-10,ayam rica rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-143,144,,2026-11-10,ayam rica rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-144,145,,2026-11-10,ayam penyet cabe ijo,air putih,,3,ayam penyet cabe ijo | air putih | nasi,,ya
+TRX-145,146,,2026-11-10,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-146,147,,2026-11-10,tongseng ayam,air,,3,tongseng ayam | nasi | air putih,,ya
+TRX-147,148,,2026-11-10,nasi goreng ayam,tea jus gula batu,,2,nasi goreng ayam | tea jus gula batu,,tidak
+TRX-148,149,,2026-11-10,tongseng ayam,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-149,150,,2026-11-10,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-150,151,,2026-11-10,nasi ayam bakar,tejus melati,,3,nasi | ayam bakar | tea jus melati,,ya
+TRX-151,152,,2026-11-10,ayam seruit,tea jus gula batu,,3,ayam sambal seruit | tea jus gula batu | nasi,,ya
+TRX-152,153,,2026-11-10,tongseng,,,2,tongseng ayam | nasi,,ya
+TRX-153,154,,2026-11-10,cabe ijo,jasjus jeruk,,3,ayam penyet cabe ijo | jasjus jeruk peras | nasi,,ya
+TRX-154,155,,2026-11-10,ayam cabe ijo,es tea jus,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-155,156,,2026-11-10,ayam rica dica,,,2,ayam rica rica | nasi,,ya
+TRX-156,157,,2026-11-10,ayam rica rica,,,2,ayam rica rica | nasi,,ya
+TRX-157,158,,2026-11-10,tongseng,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-158,159,,2026-11-10,ayam cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-159,160,,2026-11-10,ayam bumbu hitam,es tea jus,,3,ayam bumbu hitam | tea jus gula batu | nasi,,ya
+TRX-160,161,,2026-11-10,,kopi,,1,kopi,,tidak
+TRX-161,162,,2026-11-10,ayam cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-162,163,,2026-11-10,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-163,164,,2026-11-10,ayam bumbu hitam,es air putih,,3,ayam bumbu hitam | es air putih | nasi,,ya
+TRX-164,165,,2026-11-10,tongseng,es air putih,,3,tongseng ayam | nasi | es air putih,,ya
+TRX-165,166,,2026-11-10,nasi kulit ayam,jasjus cincau,,3,nasi | kulit ayam | jasjus cincau,,ya
+TRX-166,167,,2026-11-10,soto ayam,,,2,soto ayam | nasi,,ya
+TRX-167,168,,2026-11-10,ayam cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-168,169,,2026-11-10,ayam cabe ijo,,,2,ayam penyet cabe ijo | nasi,,ya
+TRX-169,170,,2026-11-10,,es tea jus,,1,tea jus gula batu,,tidak
+TRX-170,171,,2026-11-10,tongseng,,,2,tongseng ayam | nasi,,ya
+TRX-171,172,,2026-11-10,ayam bakar,es ta jus,,3,ayam bakar | tea jus gula batu | nasi,,ya
+TRX-172,173,,2026-11-10,ayam cabe ijo,es tea jus,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-173,174,,2026-11-10,ayam rica rica,,,2,ayam rica rica | nasi,,ya
+TRX-174,175,,2026-11-10,ayam rica rica,,,2,ayam rica rica | nasi,,ya
+TRX-175,176,,2026-11-11,tongseng,es tea jus,,3,tongseng ayam | nasi | tea jus gula batu,,ya
+TRX-176,177,,2026-11-11,tongseng,es tea jus,,3,tongseng ayam | nasi | tea jus gula batu,,ya
+TRX-177,178,,2026-11-13,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-178,179,,2026-11-13,ayam bakar,tea jus gula batu,,3,ayam bakar | tea jus gula batu | nasi,,ya
+TRX-179,180,,2026-11-13,ayam penyet cabe ijo,es air putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-180,181,,2026-11-13,ayam penyet cabe ijo,es ir putih,,3,ayam penyet cabe ijo | es air putih | nasi,,ya
+TRX-181,182,,2026-11-13,nasi goreng ayam,es ta jus apel,,2,nasi goreng ayam | tea jus apel,,tidak
+TRX-182,183,,2026-11-13,ayam bumbu hitam,jasjus cincau,,3,ayam bumbu hitam | jasjus cincau | nasi,,ya
+TRX-183,184,,2026-11-13,ayam rica rica,es air putih,,3,ayam rica rica | es air putih | nasi,,ya
+TRX-184,185,,2026-11-13,nasi goreng ayam,es air putih,,2,nasi goreng ayam | es air putih,,tidak
+TRX-185,186,,2026-11-16,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-186,187,,2026-11-16,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-187,188,,2026-11-16,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-188,189,,2026-11-16,pecel ayam + kulit ayam,,,3,pecel ayam | kulit ayam | nasi,,ya
+TRX-189,190,,2026-11-16,ayam cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-190,191,,2026-11-16,ayam bakar,es air putih,bungkus,3,ayam bakar | es air putih | nasi,,ya
+TRX-191,192,,2026-11-16,ayam penyet cabe ijo,es tea jus,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-192,193,,2026-11-16,tongseng,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-193,194,,2026-11-16,pecel ayam + kulit ayam,tea jus apel,,4,pecel ayam | kulit ayam | tea jus apel | nasi,,ya
+TRX-194,195,,2026-11-16,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-195,196,,2026-11-16,nasi ayam bakar,air putih es,,3,nasi | ayam bakar | es air putih,,ya
+TRX-196,197,,2026-11-16,ayam cabe ijo,tea jus gula batu,bungkus,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-197,198,,2026-11-16,pecel ayam + kulit ayam,jasjus mangga,,4,pecel ayam | kulit ayam | jasjus mangga | nasi,,ya
+TRX-198,199,,2026-11-16,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-199,200,,2026-11-17,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-200,201,,2026-11-17,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-201,202,,2026-11-17,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-202,203,,2026-11-17,pecel ayam + kulit ayam,,bungkus,3,pecel ayam | kulit ayam | nasi,,ya
+TRX-203,204,,2026-11-17,ayam cabe ijo,es tea jus,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-204,205,,2026-11-17,nasi goreng ayam,tea jus apel,,2,nasi goreng ayam | tea jus apel,,tidak
+TRX-205,206,,2026-11-17,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-206,207,,2026-11-17,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-207,208,,2026-11-17,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-208,209,,2026-11-17,pecel ayam + kulit ayam,teh biasa,,4,pecel ayam | kulit ayam | teh biasa | nasi,,ya
+TRX-209,210,,2026-11-17,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-210,211,,2026-11-17,tongseng,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-211,212,,2026-11-17,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-212,213,,2026-11-18,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-213,214,,2026-11-18,pecel ayam + kulit ayam,tea jus apel,,4,pecel ayam | kulit ayam | tea jus apel | nasi,,ya
+TRX-214,215,,2026-11-18,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-215,216,,2026-11-18,tongseng ayam,air putih,,3,tongseng ayam | nasi | air putih,,ya
+TRX-216,217,,2026-11-18,ayam cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-217,218,,2026-11-18,pecel ayam + kulit ayam,,,3,pecel ayam | kulit ayam | nasi,,ya
+TRX-218,219,,2026-11-18,ayam penyet cabe ijo,es tea jus,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-219,220,,2026-11-18,ayam bakar,air putih es,,3,ayam bakar | es air putih | nasi,,ya
+TRX-220,221,,2026-11-18,tongseng ayam,air putih,bungkus,3,tongseng ayam | nasi | air putih,,ya
+TRX-221,222,,2026-11-18,ayam penyet cabe ijo,teajus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya
+TRX-222,223,,2026-11-18,pecel ayam + kulit ayam,jasjus mangga,,4,pecel ayam | kulit ayam | jasjus mangga | nasi,,ya
+TRX-223,224,,2026-11-18,ayam bakar,es air putih,,3,ayam bakar | es air putih | nasi,,ya
+TRX-224,225,,2026-11-18,ayam penyet cabe ijo,tea jus gula batu,,3,ayam penyet cabe ijo | tea jus gula batu | nasi,,ya

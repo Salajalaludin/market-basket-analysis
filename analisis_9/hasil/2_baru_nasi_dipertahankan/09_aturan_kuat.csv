@@ -1,0 +1,7 @@
+"lhs","rhs","support","confidence","coverage","lift","count"
+"{air putih}","{tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11
+"{nasi putih,air putih}","{tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11
+"{ayam bakar}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20
+"{ayam bakar,nasi putih}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20
+"{nasi putih,tea jus gula batu}","{ayam penyet cabe ijo}",0.1261,0.6829,0.1847,1.969,28
+"{tea jus gula batu}","{ayam penyet cabe ijo}",0.1261,0.6222,0.2027,1.7939,28

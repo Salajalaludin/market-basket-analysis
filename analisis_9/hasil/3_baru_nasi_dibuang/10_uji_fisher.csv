@@ -1,0 +1,4 @@
+"lhs","rhs","support","confidence","coverage","lift","count","p_value_fisher","signifikan_5persen","p_holm","signifikan_holm","a","b","c","d","odds_ratio"
+"{air putih}","{tongseng ayam}",0.0495,0.6471,0.0766,4.9533,11,2.079e-07,"Ya",6.237e-07,"Ya",11,6,18,187,18.528
+"{ayam bakar}","{es air putih}",0.0901,0.6452,0.1396,2.0461,20,4.628e-05,"Ya",4.628e-05,"Ya",20,11,50,141,5.083
+"{tea jus gula batu}","{ayam penyet cabe ijo}",0.1261,0.6222,0.2027,1.7939,28,2.191e-05,"Ya",4.382e-05,"Ya",28,17,49,128,4.27
